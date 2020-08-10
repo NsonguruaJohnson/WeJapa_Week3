@@ -21,7 +21,7 @@
 		}		
 
 
-
+/*
 		//$color = $_POST['color'];
 		//echo $color;
 		echo '<br>';
