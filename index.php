@@ -174,7 +174,7 @@
 	<title>Sign up</title>
 </head>
 <body>
-	<form method='post' action=ContactForm.php>
+	<form method='post' action='index.php'>
 		<div>
 			<label>First Name</label>
 			<input type="text" name="fname"  value= <?php echo $fname; ?>>			
